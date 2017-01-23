@@ -1,0 +1,6 @@
+name = RBKC API Key
+description = Manage remote API keys
+core = 7.x
+package = RBKC
+
+
